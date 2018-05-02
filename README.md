@@ -21,13 +21,13 @@ Some skills obtained while completing this project:
   
 ## Goal
 The goal of this project is to create an MVP(Minimal Viable Product) of a 2D single level game and during that time 
-learn basic skills used to develop games using Unity Game Engine. 
+learn basic skills used to develop games using Unity Game Engine. Despite the fact that the game is missing a "re-spawn" and "best time" feature at this time I did figure out how to implement those features while working on another project and I feel that a lot was learned and can be applied to other projects by working on this one. 
 
 ## Needs at this time:
-Reset after character falls incorporating particle effects for the respawn. 
+Reset after character falls incorporating particle effects for the re-spawn. 
 A timer, with best time for level completion.
 
-I've been concidering making the entire scene dark, and adding a light effect coming from the flashlight of the professor. Then add some dark creepy slimelike creatures that chase after the professor as he runs away. Perhaps different difficulty levels will make the creatures move more quickly. If they touch you you die. Perhaps limit lives. 
+I've been considering making the entire scene dark, and adding a light effect coming from the flashlight of the professor. Then add some dark creepy slime-like creatures that chase after the professor as he runs away. Perhaps different difficulty levels will make the creatures move more quickly. If they touch you you die. Perhaps limit lives. 
 
 ## Author
 Avid lover of technology and coding TheNeoCoder. 
