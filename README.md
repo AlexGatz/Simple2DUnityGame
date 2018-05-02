@@ -33,5 +33,5 @@ I've been concidering making the entire scene dark, and adding a light effect co
 Avid lover of technology and coding TheNeoCoder. 
 
 
-Final thoughts:
+### Final thoughts:
 I'm leaving this project open with the hope that others may take interest in working as a group to build something fun and interesting. Currently I am moving on to building a couple Android applications and I am pleased to say that working on this project has given me skills that will apply directly to building the apps I am working on now.
