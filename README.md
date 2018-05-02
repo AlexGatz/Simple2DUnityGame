@@ -23,7 +23,7 @@ Some skills obtained while completing this project:
 The goal of this project is to create an MVP(Minimal Viable Product) of a 2D single level game and during that time 
 learn basic skills used to develop games using Unity Game Engine. 
 
-# Needs at this time:
+## Needs at this time:
 Reset after character falls incorporating particle effects for the respawn. 
 A timer, with best time for level completion.
 
