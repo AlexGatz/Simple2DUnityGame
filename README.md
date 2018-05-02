@@ -16,6 +16,7 @@ Some skills obtained while completing this project:
   Lighting effects in 2D games
   Importing and changing properties of assets using unities asset manager
   Incorporating collision detection for the character and environment
+  Create and use a "fader" for scene changes
   
   I am certain there are other skills I learned during working on this project, I cannot think of them at this time.
   
@@ -25,9 +26,12 @@ learn basic skills used to develop games using Unity Game Engine. Despite the fa
 
 ## Needs at this time:
 Reset after character falls incorporating particle effects for the re-spawn. 
-A timer, with best time for level completion.
+A timer, with best time for level completion (these things will complete the project as an MVP). 
 
-I've been considering making the entire scene dark, and adding a light effect coming from the flashlight of the professor. Then add some dark creepy slime-like creatures that chase after the professor as he runs away. Perhaps different difficulty levels will make the creatures move more quickly. If they touch you you die. Perhaps limit lives. 
+I've been considering making the entire scene dark, and adding a light effect coming from the flashlight of the professor. Then add some dark creepy slime-like creatures that chase after the professor as he runs away. Perhaps different difficulty levels will make the creatures move more quickly. If they touch you you die. Perhaps limit lives. There is also a death animation to use. 
+
+## Usage
+All files should be downloaded into a project folder of your choosing. The project should be ran using Unity Game Engine found here: https://unity3d.com/. The free version of unity can be used without any issues. 
 
 ## Author
 Avid lover of technology and coding TheNeoCoder. 
