@@ -5,19 +5,19 @@ This game is being developed using the Unity Game Engine. The purpose of the pro
 
 ## Skills learned
 Some skills obtained while completing this project:
-  C# programming using an extensive library and tools provided by Unity
-  Processing sprite sheets
-  Converting sprite sheets into animations
-  Activating different animations based on user input
-  Implement a parallaxing background effect
-  Manipulate scenes within the development space
-  Implement physics effects on the character
-  Moving and manipulating game objects within the game (scripts, sprites, properties)
-  Lighting effects in 2D games
-  Importing and changing properties of assets using unities asset manager
-  Incorporating collision detection for the character and environment
-  Create and use a "fader" for scene changes
-  
+  C# programming using an extensive library and tools provided by Unity.
+  Processing sprite sheets.
+  Converting sprite sheets into animations.
+  Activating different animations based on user input.
+  Implement a parallaxing background effect.
+  Manipulate scenes within the development space.
+  Implement physics effects on the character.
+  Moving and manipulating game objects within the game (scripts, sprites, properties).
+  Lighting effects in 2D games.
+  Importing and changing properties of assets using unities asset manager.
+  Incorporating collision detection for the character and environment.
+  Create and use a "fader" for scene changes.
+  
   I am certain there are other skills I learned during working on this project, I cannot think of them at this time.
   
 ## Goal
